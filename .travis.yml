@@ -1,0 +1,7 @@
+ervices:
+        - docker<ESC>
+          jVGdo
+script:
+        - docker build -t logger .<ESC>
+
+
